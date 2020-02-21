@@ -1,6 +1,6 @@
 # React Coding Challenge
 ## Requirements 
-This is React web application challenge. In attached Picture, you can see several functions but we don’t need all of them. We only see some main functions. Explain more in details section. 
+This is React web application challenge. In attached Picture, you can see what you have to do. We only focus on some main functions. Explain more in details section. 
 ## What we expect from your code
 * Clean code
 * Readability
