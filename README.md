@@ -16,9 +16,14 @@ This is React web application challenge. In attached Picture, you can see severa
 * You can see 2 sections in Content but we don’t need “Croptomize Free” section.
 *) In the "Croptomize Pro" section, the price per month has to change according to the size of "Number of Seats". In a nutshell, do not use this part as a picture.
 ## Example Picture
+
 Please check this Picture. 
 
 
+![Testing Image](https://github.com/WilliamEven/React_Extension_Challenge/blob/master/2020-02-21_12-24-10.png)
+
 ## Delivery
 After finish project, please make a pull request.
+
+
 Thanks
