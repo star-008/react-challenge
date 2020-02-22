@@ -8,7 +8,7 @@ This is React web application challenge. In attached Picture, you can see what y
 * Maintainability
 * Testability
 * Documentation & Comment
-* Add README.md for your project
+* AAdd README.md & Write down some challenge problems processing your project.
 ## Extra details
 * You don’t have to use Create [React App](https://reactjs.org/docs/create-a-new-react-app.html). We will provide sample project. 
 * Don't use any extra libraries or external components
