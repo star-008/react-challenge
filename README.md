@@ -28,7 +28,7 @@ Please check this Picture.
 5 hours
 
 ## Delivery
-After finish project, share your git url to us.
+After finish project, share your git repo url to us.
 
 
 Thanks
