@@ -6,10 +6,10 @@ import { Provider } from 'react-redux'
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
 import awsconfigdev from './aws-exports-dev'
-import logo from './logo.svg'
 import { createStoreWithMiddleware } from './redux/CreateStore'
 import { IAppScenario } from './redux/IAppScenario'
 import { IAppServices } from './redux/IAppServices'
+import Layout from './views/layouts'
 
 Amplify.configure(awsconfigdev)
 
@@ -36,18 +36,8 @@ function App(props: AppProps) {
     <Provider store={store}>
       <BrowserRouter>
         <Switch>
-          <Route path="/" exact={true}>
-            <div className="App">
-              <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo" />
-                <p>
-                  Edit <code>src/App.tsx</code> and save to reload.
-                </p>
-                <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-                  Learn React
-                </a>
-              </header>
-            </div>
+          <Route path="/">
+            <Layout />
           </Route>
         </Switch>
       </BrowserRouter>
